@@ -1,0 +1,13 @@
+{
+  "name": "foxxy",
+  "description": "Http request mock extension",
+  "public": false,
+  "version": "0.0.1-dev",
+  "devDependencies": {
+    "purescript": "^0.15.4",
+    "spago": "^0.20.9"
+  },
+  "dependencies": {
+    "esbuild": "^0.15.2"
+  }
+}

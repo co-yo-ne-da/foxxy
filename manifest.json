@@ -1,0 +1,17 @@
+{
+  "name": "Foxxy",
+  "description": "Http request mock extension",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "background": {
+
+  },
+  "action": {
+    "default_popup": "ui/public/popup/index.html"
+  },
+  "options_ui": {
+    "page": "ui/public/options/index.html",
+    "open_in_tab": true
+  },
+  "permissions": ["storage", "activeTab", "scripting"]
+}
